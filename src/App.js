@@ -6,7 +6,7 @@ import Finish from './components/Finish';
 
 function App() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div>
           <Switch>
             <Route exact path="/" component={Start} />
