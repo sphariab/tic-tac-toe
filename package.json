@@ -1,7 +1,6 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://sphariab.github.io/tic-tac-toe/",
   "dependencies": {
     "@material-ui/core": "^4.9.7",
